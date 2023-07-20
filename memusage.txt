@@ -1,0 +1,30 @@
+Memory usage during loop 1 at time: 
+Thu Jul 20 17:23:53 BST 2023
+               total        used        free      shared  buff/cache   available
+Mem:         2953156      360676     2288008        2940      304472     2443908
+Swap:        1048576           0     1048576
+
+Memory usage during loop 2 at time: 
+Thu Jul 20 17:23:58 BST 2023
+               total        used        free      shared  buff/cache   available
+Mem:         2953156      405068     2156816        2968      391272     2399052
+Swap:        1048576           0     1048576
+
+Memory usage during loop 3 at time: 
+Thu Jul 20 17:24:03 BST 2023
+               total        used        free      shared  buff/cache   available
+Mem:         2953156      444240     2098136        3060      410780     2359216
+Swap:        1048576           0     1048576
+
+Memory usage during loop 4 at time: 
+Thu Jul 20 17:24:08 BST 2023
+               total        used        free      shared  buff/cache   available
+Mem:         2953156      444460     2097884        3068      410812     2358984
+Swap:        1048576           0     1048576
+
+Memory usage during loop 5 at time: 
+Thu Jul 20 17:24:13 BST 2023
+               total        used        free      shared  buff/cache   available
+Mem:         2953156      445320     2096988        3072      410848     2358104
+Swap:        1048576           0     1048576
+
